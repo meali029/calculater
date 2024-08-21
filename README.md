@@ -2,7 +2,7 @@
 #i Calculater 🧮 is a simple yet functional web-based calculator. This project is built using HTML, CSS, and JavaScript. The design is clean and minimalistic, with an intuitive interface that allows users to perform basic arithmetic operations with ease.
 
 #Features
-Basic Arithmetic Operations: Supports addition, subtraction, multiplication, and division.
+Basic Arithmetic Operations: Support addition, subtraction, multiplication, and division.
 Clear Display: The calculator features a clear and easy-to-read display that shows the current input and results.
 Responsive Design: The calculator is designed to be fully responsive, making it usable on different devices and screen sizes.
 Error Handling: Implements basic error handling for invalid operations.
